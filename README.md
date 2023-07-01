@@ -1,4 +1,4 @@
-# Predizione di Disturbi Cardiovascolari mediante Classificazione Binaria
+# Predizione di Disturbi Cardiovascolari mediante Classificazione Binaria 🫀
 Questo progetto di Data Mining si focalizza sulla predizione dei disturbi cardiovascolari utilizzando tecniche di classificazione binaria. Il dataset utilizzato contiene dati clinici di pazienti, inclusi fattori di rischio cardiovascolare come età, sesso, pressione arteriosa e livello di colesterolo.
 
 ## Contenuti
@@ -25,18 +25,22 @@ git clone https://github.com/Granturco0/Cardio_Disease.git
 python3 -m venv cardioenv
 ```
 3) Attivare l'ambiente virtuale:
+
 • Windows:
 ```
 cardioenv\Scripts\activate
 ```
+
 • Linux/macOS:
 ```
 source cardioenv/bin/activate
 ```
+
 4) Installare le librerie necessarie da requirements.txt:
 ```
 pip install -r requirements.txt
 ```
+
 5) Avviare il notebook Jupyter:
 ```
 jupyter notebook Cardio_Disease.ipynb
