@@ -1,5 +1,5 @@
-# Predizione di Disturbi Cardiovascolari mediante Classificazione Binaria 
-Questo progetto di Data Mining si focalizza sulla predizione dei disturbi cardiovascolari utilizzando tecniche di classificazione binaria. Il dataset utilizzato contiene dati clinici di pazienti, inclusi fattori di rischio cardiovascolare come età, sesso, pressione arteriosa e livello di colesterolo.
+# Analisi Comparativa di Modelli di Machine Learning per l'Individuazione di Disturbi Cardiovascolari
+Il progetto, sviluppato come caso di studio per il corso di Data Mining presso l'Università degli Studi di Bari, ha come obiettivo principale quello di sviluppare e confrontare diversi modelli di machine learning al fine di identificare il modello più accurato e affidabile per la classificazione della presenza o meno di disturbi cardiovascolari.
 
 ## Contenuti
 La repository contiene i seguenti file :
@@ -11,14 +11,12 @@ La repository contiene i seguenti file :
 • requirements.txt: File che elenca  le librerie Python necessarie per eseguire correttamente il progetto.
 
 ## Utilizzo
+1) Assicurarsi di avere installato Python 3 e pip nel proprio sistema.
 
-
-1) Clonare la repository nel proprio ambiente locale utilizzando il comando:
+2) Clonare la repository nel proprio ambiente locale utilizzando il comando:
 ```
 git clone https://github.com/Granturco0/Cardio_Disease.git
 ```
-
-2) Assicurarsi di avere installato Python 3 e pip nel proprio sistema.
 
 3) Creare un ambiente virtuale per il progetto:
 ```
